@@ -1,6 +1,6 @@
 ### 🏁 🏁 🏁  Bienvenido a mi GitHubardo 🏁 🏁 🏁 
 **El admin:**
-![logo](![imagen](https://user-images.githubusercontent.com/124562609/224315220-e8139c92-8227-48fd-9936-c819ef95bcb7.png)
+![alt text](![imagen](https://user-images.githubusercontent.com/124562609/224315220-e8139c92-8227-48fd-9936-c819ef95bcb7.png)
 )
 <!--
 **JorgeSanchezF/JorgeSanchezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
