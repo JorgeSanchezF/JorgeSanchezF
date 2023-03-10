@@ -1,8 +1,8 @@
 ### 🏁 🏁 🏁  Bienvenido a mi GitHubardo 🏁 🏁 🏁 
-
+![logo](https://github.com/JorgeSanchezF/JorgeSanchezF/blob/main/Assets/viuccxwhf0o51.png?raw=true)
 <!--
 **JorgeSanchezF/JorgeSanchezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![logo](https://github.com/JorgeSanchezF/JorgeSanchezF/blob/main/Assets/viuccxwhf0o51.png?raw=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
