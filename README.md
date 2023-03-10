@@ -2,7 +2,7 @@
 
 <!--
 **JorgeSanchezF/JorgeSanchezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![logo](https://github.com/JorgeSanchezF/JorgeSanchezF/blob/main/%C3%ADndice.jpg)
+![logo](https://github.com/JorgeSanchezF/JorgeSanchezF/blob/main/Assets/%C3%ADndice.jpg?raw=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
