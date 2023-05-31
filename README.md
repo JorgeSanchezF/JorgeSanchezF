@@ -1,5 +1,5 @@
 ### 🏁 🏁 🏁  Bienvenido a mi GitHub 🏁 🏁 🏁 
-Aquí subiré mis proyectos de Desarrollo de Aplicaciones Web
+Aquí se encuentran algunos de mis proyectos desarrollados durante mi grado en Desarrollo de Aplicaciones Web
 <!--
 **JorgeSanchezF/JorgeSanchezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
